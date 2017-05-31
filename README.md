@@ -24,4 +24,8 @@ file system.
 ## How to contribute
 
 
+### Copyright
+
+2017 GIT Training
+
 Sample website with plenty of files for demos
