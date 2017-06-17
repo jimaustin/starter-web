@@ -32,3 +32,4 @@ requests for review.
 All rights reserved.
 
 Sample website with plenty of files for demos
+Change for git stash
