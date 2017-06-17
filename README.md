@@ -1,9 +1,5 @@
 # Starter Web Project
 
-
-Change to show how re-basing works. Making more changes!!
-
-
 This is a simple website project for 
 showing how to use Git and Github together. 
 
@@ -33,5 +29,6 @@ requests for review.
 ### Copyright
 
 2017 GIT Training
+All rights reserved.
 
 Sample website with plenty of files for demos
